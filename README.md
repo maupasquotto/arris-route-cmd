@@ -1,4 +1,4 @@
-# Route: arris TG862
+# Route: arris TG852G
 
 ## Code: WIP
 ## Docs: WIP
